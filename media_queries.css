@@ -1,0 +1,13 @@
+@media only screen and (max-width: 767px) {
+	header {
+		max-height: auto;
+		background-color: gray;
+		background-image: url("https://multicdn.synq.fm/projects/24/19/2419e41be6e04824a8f5019076bf61fe/derivatives/thumbnails/8c/41/8c4179f509914ee8a1906193db830756/0000630.jpg");
+		background-repeat: no-repeat;
+		background-attachment: scroll;
+		background-position: 0% 0%;
+		background-size: cover;
+	}
+
+
+}
